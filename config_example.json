@@ -1,0 +1,4 @@
+{
+  "clusterName": "ExampleCluster",
+  "taskDefinitionFamilies": ["ExampleTaskDefinition"]
+}
